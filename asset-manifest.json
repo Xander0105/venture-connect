@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.41eef5aa.css",
-    "main.js": "/static/js/main.7e8813ba.js",
-    "static/js/453.b8c6105f.chunk.js": "/static/js/453.b8c6105f.chunk.js",
-    "index.html": "/index.html",
-    "main.41eef5aa.css.map": "/static/css/main.41eef5aa.css.map",
-    "main.7e8813ba.js.map": "/static/js/main.7e8813ba.js.map",
-    "453.b8c6105f.chunk.js.map": "/static/js/453.b8c6105f.chunk.js.map"
+    "main.css": "/venture-connect/static/css/main.41eef5aa.css",
+    "main.js": "/venture-connect/static/js/main.b4638d36.js",
+    "static/js/453.b8c6105f.chunk.js": "/venture-connect/static/js/453.b8c6105f.chunk.js",
+    "index.html": "/venture-connect/index.html",
+    "main.41eef5aa.css.map": "/venture-connect/static/css/main.41eef5aa.css.map",
+    "main.b4638d36.js.map": "/venture-connect/static/js/main.b4638d36.js.map",
+    "453.b8c6105f.chunk.js.map": "/venture-connect/static/js/453.b8c6105f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41eef5aa.css",
-    "static/js/main.7e8813ba.js"
+    "static/js/main.b4638d36.js"
   ]
 }
